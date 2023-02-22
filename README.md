@@ -36,3 +36,6 @@ alt ='Linkedin' height ='30'>](https://www.linkedin.com/in/rodrigo-pinheiro-silv
 
 ## Repositorios Importantes 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoPinheiro1&repo=OrcamentoMensalChanllengeAluraBackEnd&theme=radical)](https://github.com/RodrigoPinheiro1/OrcamentoMensalChanllengeAluraBackEnd)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoPinheiro1&repo=AluraFlixChallenge&theme=radical)](https://github.com/RodrigoPinheiro1/AluraFlixChallenge)
+
