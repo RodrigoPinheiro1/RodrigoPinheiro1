@@ -1,8 +1,13 @@
 
 <h1 align ="center"> Welcome!</h1>
 
-Atualmente trabalho na area de desenvolvimento de software, amo aprender formas melhores de desenvolver meu codigo e a mim mesmo, gosto de ajudar outras pessoas para ajudar em seus objetivos, acredito que o trabalho colaborativo de uma equipe nos faz chegar mais longe, gosto de viver novos desafios para constante aprendizado. 
+Atualmente 1 ano no mercado de trabalho na área de desenvolvimento de software. Gosto de ajudar outras pessoas em seus objetivos
 
+técnicos , acredito que o trabalho colaborativo nos faz
+
+chegar mais longe, gosto de viver novos desafios e
+
+constantes aprendizados.
 
 
 
