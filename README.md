@@ -1,14 +1,7 @@
 
 <h1 align ="center"> Welcome!</h1>
 
-Atualmente 1 ano no mercado de trabalho na área de desenvolvimento de software. Gosto de ajudar outras pessoas em seus objetivos
-
-técnicos , acredito que o trabalho colaborativo nos faz
-
-chegar mais longe, gosto de viver novos desafios e
-
-constantes aprendizados.
-
+Atualmente 1 ano no mercado de trabalho na área de desenvolvimento de software. Gosto de ajudar outras pessoas em seus objetivos técnicos , acredito que o trabalho colaborativo nos faz chegar mais longe, gosto de viver novos desafios e  constantes aprendizados.
 
 
 ## Skills
