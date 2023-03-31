@@ -44,3 +44,5 @@ alt ='Linkedin' height ='30'>](https://www.linkedin.com/in/rodrigo-pinheiro-silv
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoPinheiro1&repo=aluraflix-ms&theme=radical)](https://github.com/RodrigoPinheiro1/aluraflix-ms)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoPinheiro1&repo=GerenciamentoDePessoas&theme=radical)](https://github.com/RodrigoPinheiro1/GerenciamentoDePessoas)
+
