@@ -34,5 +34,6 @@ With three years of experience in the software development industry, I enjoy hel
 alt ='Linkedin' height ='30'>](https://www.linkedin.com/in/rodrigo-pinheiro-silva-49b21921b/)
 
 ## Repositorios Importantes 
+
 [![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=RodrigoPinheiro1&repo=aluraflix-ms&theme=radical)](https://github.com/RodrigoPinheiro1/aluraflix-ms](https://github.com/RodrigoPinheiro1/Sec_Bus))
 
