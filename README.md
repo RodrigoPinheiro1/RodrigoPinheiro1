@@ -2,8 +2,7 @@
 <h1 align ="center"> Welcome!</h1>
 
 
-With three years of experience in the software development industry, I enjoy helping others achieve their technical goals. I believe that collaborative work allows us to go further, and I am always eager to take on new challenges and embrace continuous learning.
-
+With three years of experience as a Java developer, I specialize in Spring Boot, REST APIs, and database management. I enjoy helping others achieve their technical goals and believe that collaboration drives success. Always eager to embrace new challenges, I am committed to continuous learning and improvement.
 
 ## Skills
 
