@@ -1,7 +1,8 @@
 
 <h1 align ="center"> Welcome!</h1>
 
-Atualmente 3 ano no mercado de trabalho na área de desenvolvimento de software. Gosto de ajudar outras pessoas em seus objetivos técnicos , acredito que o trabalho colaborativo nos faz chegar mais longe, gosto de viver novos desafios e  constantes aprendizados.
+
+With three years of experience in the software development industry, I enjoy helping others achieve their technical goals. I believe that collaborative work allows us to go further, and I am always eager to take on new challenges and embrace continuous learning.
 
 
 ## Skills
@@ -33,9 +34,5 @@ Atualmente 3 ano no mercado de trabalho na área de desenvolvimento de software.
 alt ='Linkedin' height ='30'>](https://www.linkedin.com/in/rodrigo-pinheiro-silva-49b21921b/)
 
 ## Repositorios Importantes 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoPinheiro1&repo=OrcamentoMensalChanllengeAluraBackEnd&theme=radical)](https://github.com/RodrigoPinheiro1/OrcamentoMensalChanllengeAluraBackEnd)
-
 [![Readme Card]([https://github-readme-stats.vercel.app/api/pin/?username=RodrigoPinheiro1&repo=aluraflix-ms&theme=radical)](https://github.com/RodrigoPinheiro1/aluraflix-ms](https://github.com/RodrigoPinheiro1/Sec_Bus))
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=RodrigoPinheiro1&repo=GerenciamentoDePessoas&theme=radical)](https://github.com/RodrigoPinheiro1/GerenciamentoDePessoas)
 
